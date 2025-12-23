@@ -26,13 +26,12 @@ This repository represents Version 2.0 of the application, which includes major 
 
 Technology Stack
 
-Application
+Application  
+Backend: Flask (Python)  
+Frontend: HTML, CSS, Bootstrap  
 
-Backend: Flask (Python)
+DevOps and Cloud:
 
-Frontend: HTML, CSS, Bootstrap
-
-DevOps and Cloud  
 CI: Jenkins (Multibranch Pipeline)  
 Containerization: Docker  
 Container Registry: Docker Hub  
@@ -42,7 +41,7 @@ Cloud Provider: AWS
 Version Control: Git and GitHub  
 CI/CD and GitOps Workflow
 
-Continuous Integration
+Continuous Integration:
 
 Jenkins multibranch pipeline  
 Source code checkout from GitHub  
@@ -50,25 +49,23 @@ Docker image build
 Docker image push to registry  
 Automated update of Kubernetes manifests with new image versions
 
-Continuous Deployment
+Continuous Deployment:
 
 Argo CD monitors Kubernetes manifests stored in Git  
 Automatically synchronizes changes to the EKS cluster  
 Provides application health monitoring and deployment visibility
 
 
-Version History 
+Version History:
 
-Version 1.0 – Initial Release
-
+Version 1.0 – Initial Release  
 Basic Flask e-commerce application
 Dockerized application
 Kubernetes deployment on AWS EKS
 
 
 
-Version 2.0 – Feature Enhancement Release (Current)
-
+Version 2.0 – Feature Enhancement Release (Current)  
 Complete UI redesign
 Product catalog with categories
 Order tracking interface
@@ -83,8 +80,7 @@ Application Footer (v2.0)
 
 © 2025 ShopEasy v2.0 | CI/CD & GitOps Enabled | Developed by Mohammad Ikram
 
-Author
-
+Author  
 Mohammad Ikram
 
 DevOps | Cloud | CI/CD | GitOps
