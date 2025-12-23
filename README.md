@@ -76,6 +76,19 @@ Updated footer with versioning and author details
 Refactored codebase for better maintainability
 Stable GitOps-based deployment workflow
 
+![Main Application UI](screenshots/v2.0-feature-enhancement/01-app-ui.png)
+
+![Customer Reviews](screenshots/v2.0-feature-enhancement/02-customer-reviews.png)
+
+![Cart Feature](screenshots/v2.0-feature-enhancement/03-feature-cart.png)
+
+![Fashion Category](screenshots/v2.0-feature-enhancement/04-feature-cart-fashion.png)
+
+![Jenkins Pipeline](screenshots/v2.0-feature-enhancement/05-jenkins-pipeline.png)
+
+![Argo CD Synced](screenshots/v2.0-feature-enhancement/06-argocd-synced.png)
+
+
 
 Application Footer (v2.0)
 
