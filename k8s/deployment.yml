@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: e-commerce-app
-        image: mohammadikram/multibranch-flask-app:build-3
+        image: mohammadikram/multibranch-flask-app:build-4
         ports:
         - containerPort: 5000
