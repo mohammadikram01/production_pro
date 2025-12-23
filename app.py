@@ -14,7 +14,7 @@ products = [
         "id": 1,
         "name": "Wireless Headphones",
         "price": 99.99,
-        "image": "https://picsum.photos/300/200?random=1",
+        "image": "https://th.bing.com/th/id/OIP.pgzU33CxcqL3NvDutVnJTgHaI0?w=160&h=191&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1",
         "category": "Electronics",
         "description": "High-quality wireless headphones with noise cancellation",
         "rating": 4.5,
@@ -1445,3 +1445,4 @@ def get_cart():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
+
