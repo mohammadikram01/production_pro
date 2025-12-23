@@ -595,7 +595,7 @@ HTML_TEMPLATE = """
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8 mt-12">
         <div class="max-w-7xl mx-auto px-4 text-center">
-            <p>&copy; 2024 ShopEasy. All rights reserved. | Built with ❤️ using Flask</p>
+            <p>&copy; 2025 ShopEasy v2.0 | CI/CD & GitOps Enabled | Developed by Mohammad Ikram</p>
             <div class="mt-4 space-x-4">
                 <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-facebook"></i></a>
                 <a href="#" class="text-gray-400 hover:text-white"><i class="fab fa-twitter"></i></a>
